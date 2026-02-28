@@ -87,19 +87,13 @@ curl http://localhost
 Публичный Git-репозиторий
 
 Понятная структура проекта
-```bash
+```txt
 ├── backend/
-
 │ ├── Dockerfile
-
 │ └── app.py
-
 ├── nginx/
-
 │ └── nginx.conf
-
 ├── docker-compose.yml
-
 └── README.md
 ```
 
