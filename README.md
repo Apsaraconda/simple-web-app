@@ -10,7 +10,7 @@
 
 2. Клонируйте репозиторий (если не сделано):
 ```bash
-git clone https://github.com/Apsaraconda/.git
+git clone https://github.com/Apsaraconda/simple-web-app.git
 ```
 
 3. Запустите приложение:
